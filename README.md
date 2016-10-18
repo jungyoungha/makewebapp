@@ -1,2 +1,2 @@
 # makewebapp
-Practice of making web application
+Practice of making simpl web application
